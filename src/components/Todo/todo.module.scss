@@ -1,0 +1,16 @@
+.icons {
+	display: flex;
+	align-items: center;
+	font-size: 24px;
+	cursor: pointer;
+}
+
+.delete__icon {
+	margin-right: 5px;
+	color: red;
+	//color: #fff;
+}
+
+.edit__icon {
+	color: #fff;
+}
